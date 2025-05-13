@@ -1,3 +1,4 @@
 numoy 
 pandas
 matplotlib
+Seaborn
